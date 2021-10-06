@@ -21,7 +21,6 @@ print(" 3. Perkalian (*)")
 print(" 4. Pembagian (/)")
 print("===================================")
 pilOperasi = input("Pilihan (1/2/3/4) > ")
-print(pilOperasi)
 
 if pilOperasi=="1":
     hasil = bil1 + bil2
